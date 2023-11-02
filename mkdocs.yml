@@ -1,1 +1,3 @@
 site_name: Demo CEFIM AIS 2023
+theme:
+  name: material
