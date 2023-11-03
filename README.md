@@ -2,7 +2,7 @@ Lancer la commande `ls` pour affichers les fichiers
 
 > Pensez à sauvegarder !
 
-![Tux](https://storage.needpix.com/rsynced_images/gandalf-161456_1280.png)
+![Tux](https://i.pinimg.com/736x/1a/12/fe/1a12febff254956a51efc9379c7afe64--gandalf-linux.jpg)
 
 ```bash
 #!/bin/bash
