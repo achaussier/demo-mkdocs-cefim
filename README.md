@@ -2,6 +2,8 @@ Lancer la commande `ls` pour affichers les fichiers
 
 > Pensez à sauvegarder !
 
+![Tux](./tux_rambo.png)
+
 ```bash
 #!/bin/bash
 set -e
